@@ -2,3 +2,7 @@
 2. Decided which type of pizza to order
 3. Decide which toppings to add to the pizza
 4. Call Pizza Place
+5. Drive to Pizza Place
+6. Pay for Pizza
+7. Drive home
+8. Eat Pizza
