@@ -1,0 +1,4 @@
+1. Decide where to order pizza
+2. Decided which type of pizza to order
+3. Decide which toppings to add to the pizza
+4. Call Pizza Place
