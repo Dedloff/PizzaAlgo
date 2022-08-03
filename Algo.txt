@@ -1,4 +1,5 @@
 1. Decide where to order pizza
+    1.A Decide if you want delivery or pickup
 2. Decided which type of pizza to order
 3. Decide which toppings to add to the pizza
 4. Call Pizza Place
